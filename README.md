@@ -33,6 +33,7 @@
 
 this project seeks to bring all developments in react, api, nodejs, nestjs to one place. I will demonstrate here several work that I do using these tools.
 
+I hope I can help all devs and beginners
 ## :computer: Technologies
 This project was developed with the following technologies:
 
