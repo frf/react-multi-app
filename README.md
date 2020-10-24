@@ -1,8 +1,8 @@
-<h1 align="center">
+<h4 align="center">
     Platform with free examples so you can be inspired to build yours, my greatest love for technology is being able to share everything I have.
 
     Here I will be able to exhibit all my projects through a single location.
-</h1>
+</h4>
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/frf/react-multi-app.svg">
