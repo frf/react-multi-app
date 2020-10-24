@@ -22,7 +22,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://dev4u.app2u.co/images/screens/screen_apps.png)
+![App Screenshot](https://apps.app2u.co/images/screens/screen_apps.png)
 <p align="center">
   <a href="https://apps.app2u.co" target="_blank">
     <h3 align="center">Demo</h3>
